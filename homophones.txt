@@ -1,0 +1,49 @@
+1.Right - You need to turn right
+  Write - You can write in English Language
+2.Son - I'm Thorfinn, son of Thors!
+  Sun - The sun is too hot today
+3.Weak - You're too weak; you can't survive here
+  Week - I'm planning to go shopping this week
+4.Buy - You can buy anything you want
+  By - You need to submit the report by this week.
+5.Two - We have two different dishes today
+  Too - We need to go too far to reach our destination
+6.Sea - The sea looks so beautiful.
+  See - You can't see me
+7.Mail - Send me the complete details about the project through mail
+  Male - The male actor won an award
+8.Peace - Rumbling is the only way to have peace
+  Piece - We need to share the cake with equal pieces
+9.Brake - We need to keep our foot on the brake for safety
+  Break - We should not break the rules given by our instructor
+10.Allowed - You guys are allowed to go to the library
+   Aloud - Don't speak aloud
+11.Hear - Can you hear me?
+   Here - You can come here and sit with me.
+12.Scent - The scent smells good
+   Sent - The message has been sent successfully
+13.Weather - The weather is too hot
+   Whether - I'm not sure whether I'll attend the meeting or not
+14.Whole - I ate the whole cake by myself
+   Hole - There is a hole in my shoe.
+15.One - Only one person will survive in Squid Game
+   Won - You won the game
+16.Steal - Don't steal from others
+   Steel - The steel is too strong
+
+
+
+Email Writing
+Subject : Unable To Attend Word Today Due To Sick Leave
+
+Dear Omar,
+
+I hope you are doing well.
+I'm not feeling well today as I have caught the flu, and my condition isn’t good.Nancy will follow up with my 
+clients, and Sam will complete the report for our meeting on Friday. The report will include the sales figures 
+from the last quarter, as you requested.
+
+Thank you for your time and understanding.
+
+Yours sincerely,
+Muthu Sankara Sundaram K
